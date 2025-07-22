@@ -41,8 +41,6 @@ network-dashboard/
 
 git clone https://github.com/your-username/network-dashboard.git
 cd network-dashboard
-pip install -r requirements.txt
-Install manually:
 pip install streamlit scapy pandas plotly
 ▶️ How to Run
 Admin privileges required for packet sniffing
@@ -55,10 +53,6 @@ Open terminal as administrator:
 
 streamlit run dashboard.py
 
-
-Bar Chart of the top 10 source IPs
-
-Live Packet Table displaying recent activity
 
 🌱 Future Ideas
 🌍 Add GeoIP mapping for IP visualization
