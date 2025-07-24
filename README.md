@@ -1,13 +1,21 @@
-📡 Real-time Network Traffic Analysis Dashboard with Python & Streamlit
+📡 Real-time Network Traffic Analysis Dashboard with Python & Streamlit 
+
+
 🛠️ Built by: [Tom]
+
+
 🔍 Inspired by Chaitanya Rahalkar’s tutorial on freeCodeCamp
 
 📝 Project Overview
+
+
 This project is a real-time dashboard that captures and visualizes network traffic using Python. It uses Streamlit for the web interface, Scapy for packet sniffing, and Plotly for interactive graphs. You can monitor incoming/outgoing packets, view protocol distributions, and inspect the top IP sources in your network — all updated live.
 
 This was built as a hands-on way to understand networking, real-time data processing, and building dashboards.
 
 ⚙️ Key Features
+
+
 📡 Live capture of packets (TCP, UDP, ICMP)
 
 📊 Real-time interactive charts using Plotly
@@ -19,6 +27,7 @@ This was built as a hands-on way to understand networking, real-time data proces
 💡 Modular code structure with threading
 
 🧰 Tools & Libraries
+
 Python 3.8+
 
 Streamlit – for building the dashboard UI
@@ -30,9 +39,7 @@ Pandas – for data wrangling
 Plotly – for graphs and charts
 
 📁 Folder Structure
-bash
-Copy
-Edit
+
 network-dashboard/
 ├── dashboard.py         # Main app script
 ├── README.md            # Project documentation
