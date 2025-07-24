@@ -78,5 +78,6 @@ streamlit run dashboard.py
 
 
 📄 License
+
 This project is for educational purposes. If you adapt or build upon it, feel free to reference this repo. MIT License.
 
