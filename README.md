@@ -40,20 +40,29 @@ Plotly – for graphs and charts
 📁 Folder Structure
 
 network-dashboard/
+
 ├── dashboard.py         # Main app script
+
 ├── README.md            # Project documentation
 
 🔧 Installation
 
 git clone https://github.com/your-username/network-dashboard.git
+
 cd network-dashboard
+
 pip install streamlit scapy pandas plotly
+
 ▶️ How to Run
+
 Admin privileges required for packet sniffing
 
 Linux/macOS:
+
 sudo streamlit run dashboard.py
+
 Windows:
+
 Open terminal as administrator:
 
 
@@ -61,6 +70,7 @@ streamlit run dashboard.py
 
 
 🌱 Future Ideas
+
 🌍 Add GeoIP mapping for IP visualization
 
 📦 Analyze packet payloads
@@ -69,11 +79,6 @@ streamlit run dashboard.py
 
 🚨 Custom alerts for suspicious traffic
 
-
-📚 Credits
-Inspired by: Chaitanya Rahalkar’s article on freeCodeCamp
-
-Thanks to the developers of Streamlit, Scapy, Pandas, and Plotly for their awesome tools.
 
 📄 License
 This project is for educational purposes. If you adapt or build upon it, feel free to reference this repo. MIT License.
