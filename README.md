@@ -1,7 +1,6 @@
 📡 Real-time Network Traffic Analysis Dashboard with Python & Streamlit 
 
 
-🛠️ Built by: [Tom]
 
 
 🔍 Inspired by Chaitanya Rahalkar’s tutorial on freeCodeCamp
