@@ -2,9 +2,6 @@
 
 
 
-
-🔍 Inspired by Chaitanya Rahalkar’s tutorial on freeCodeCamp
-
 📝 Project Overview
 
 
